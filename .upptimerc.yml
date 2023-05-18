@@ -1,21 +1,22 @@
-# Change these first
+# See https://upptime.js.org/docs/configuration for more options
+
+# Github org/repo
 owner: joinyearone
 repo: upptime
 
+# Sites we ping to report status
 sites:
   - name: YearOne product
     url: https://app.joinyearone.io
   - name: YearOne marketing
     url: https://joinyearone.io
 
+# Configs for the status page display
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.joinyearone.io
-  # apiBaseUrl: https://api.github.com
-  # baseUrl: /your-repo-name
-  logoUrl: https://app.joinyearone.io/assets/yearone_logo-b1e0b3736079cbf0d67d21c860f748ec4b64673073f06b959731c2cc1361a402.png
   name: YearOne
+  cname: status.joinyearone.io
+  logoUrl: https://app.joinyearone.io/assets/yearone_logo-b1e0b3736079cbf0d67d21c860f748ec4b64673073f06b959731c2cc1361a402.png
+  favicon: https://app.joinyearone.io/favicons/favicon-192.png
   introTitle: "**YearOne**, growing software engineers one lesson at a time"
   introMessage: Live status updates about the YearOne sites.
   navbar:
@@ -25,6 +26,4 @@ status-website:
       href: https://app.joinyearone.io
     - title: Homepage
       href: https://joinyearone.io
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+  css: ".logo.svelte-a08hsz img.svelte-a08hsz { height: fit-content; } .logo.svelte-a08hsz img.svelte-a08hsz + div { visibility: hidden; }"
