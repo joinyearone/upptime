@@ -12,6 +12,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.joinyearone.io
+  apiBaseUrl: https://api.github.com
   # baseUrl: /your-repo-name
   logoUrl: https://app.joinyearone.io/assets/yearone_logo-b1e0b3736079cbf0d67d21c860f748ec4b64673073f06b959731c2cc1361a402.png
   name: YearOne
