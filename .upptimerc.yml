@@ -1,31 +1,31 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: joinyearone # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: YearOne product
+    url: https://app.joinyearone.io
+  - name: YearOne marketing
+    url: https://joinyearone.io
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.joinyearone.io
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://app.joinyearone.io/assets/yearone_logo-b1e0b3736079cbf0d67d21c860f748ec4b64673073f06b959731c2cc1361a402.png
+  name: YearOne
+  introTitle: "**YearOne**, growing software engineers one lesson at a time"
+  introMessage: Live status updates about the YearOne sites.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Product
+      href: https://app.joinyearone.io
+    - title: Homepage
+      href: https://joinyearone.io
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
