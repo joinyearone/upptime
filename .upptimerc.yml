@@ -10,6 +10,8 @@ sites:
     url: https://app.joinyearone.io
   - name: YearOne marketing
     url: https://joinyearone.io
+  - name: Fake Site Test
+    url: https://thisisnotarealsite.com
 
 # Configs for the status page display
 status-website:
@@ -26,6 +28,4 @@ status-website:
       href: https://app.joinyearone.io
     - title: Homepage
       href: https://joinyearone.io
-    - title: Fake Site Test
-      href: https://thisisnotarealsite.com
   css: ".logo.svelte-a08hsz img.svelte-a08hsz { height: fit-content; } .logo.svelte-a08hsz img.svelte-a08hsz + div { visibility: hidden; }"
