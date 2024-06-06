@@ -10,8 +10,10 @@ sites:
     url: https://app.joinyearone.io
   - name: YearOne marketing
     url: https://joinyearone.io
-  - name: Fake Site Test
-    url: https://thisisnotarealsite.com
+  - name: Flow Customer API
+    url: https://flow.pluralsight.com/v3/customer/core/docs/
+  - name: Flow Collaboration API
+    url: https://flow-api.pluralsight.com/collaboration/docs
 
 # Configs for the status page display
 status-website:
