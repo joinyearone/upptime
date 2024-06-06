@@ -24,7 +24,7 @@
     "slug": "year-one-marketing",
     "status": "up",
     "uptime": "90.09%",
-    "uptimeDay": "6.81%",
+    "uptimeDay": "6.82%",
     "uptimeWeek": "0.97%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "89.58%",
@@ -83,19 +83,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/flow.pluralsight.com.ico",
     "slug": "flow-customer-api",
     "status": "up",
-    "uptime": "2.77%",
-    "uptimeDay": "2.77%",
-    "uptimeWeek": "2.77%",
-    "uptimeMonth": "2.77%",
-    "uptimeYear": "2.77%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 250,
     "timeDay": 250,
     "timeWeek": 250,
     "timeMonth": 250,
     "timeYear": 250,
-    "dailyMinutesDown": {
-      "2024-06-06": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Flow Collaboration API",
