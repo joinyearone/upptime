@@ -6,9 +6,9 @@ repo: upptime
 
 # Sites we ping to report status
 sites:
-  - name: YearOne product
+  - name: YearOne App Website
     url: https://app.joinyearone.io
-  - name: YearOne marketing
+  - name: YearOne Marketing Website
     url: https://joinyearone.io
   - name: Flow Customer API
     url: https://flow.pluralsight.com/v3/customer/core/docs/
