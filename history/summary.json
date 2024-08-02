@@ -58,17 +58,19 @@
     "url": "https://flow-api.pluralsight.com/collaboration/docs",
     "icon": "https://icons.duckduckgo.com/ip3/flow-api.pluralsight.com.ico",
     "slug": "flow-collaboration-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 455,
-    "timeDay": 378,
-    "timeWeek": 461,
-    "timeMonth": 456,
-    "timeYear": 455,
-    "dailyMinutesDown": {}
+    "time": 454,
+    "timeDay": 387,
+    "timeWeek": 453,
+    "timeMonth": 454,
+    "timeYear": 454,
+    "dailyMinutesDown": {
+      "2024-08-02": 0
+    }
   }
 ]
