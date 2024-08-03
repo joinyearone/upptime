@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 442,
-    "timeDay": 664,
-    "timeWeek": 513,
-    "timeMonth": 446,
-    "timeYear": 442,
+    "time": 441,
+    "timeDay": 396,
+    "timeWeek": 478,
+    "timeMonth": 449,
+    "timeYear": 441,
     "dailyMinutesDown": {}
   },
   {
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 580,
-    "timeDay": 700,
-    "timeWeek": 549,
+    "timeDay": 568,
+    "timeWeek": 546,
     "timeMonth": 522,
     "timeYear": 580,
     "dailyMinutesDown": {}
@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/flow.pluralsight.com.ico",
     "slug": "flow-customer-api",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "97.41%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.96%",
+    "uptimeDay": "97.88%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.96%",
     "time": 248,
-    "timeDay": 192,
-    "timeWeek": 209,
+    "timeDay": 211,
+    "timeWeek": 210,
     "timeMonth": 256,
     "timeYear": 248,
     "dailyMinutesDown": {
-      "2024-08-02": 38
+      "2024-08-02": 31
     }
   },
   {
@@ -67,9 +67,9 @@
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.88%",
     "time": 455,
-    "timeDay": 442,
-    "timeWeek": 460,
-    "timeMonth": 456,
+    "timeDay": 456,
+    "timeWeek": 469,
+    "timeMonth": 455,
     "timeYear": 455,
     "dailyMinutesDown": {
       "2024-08-02": 95
