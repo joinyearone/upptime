@@ -22,18 +22,20 @@
     "url": "https://joinyearone.io",
     "icon": "https://icons.duckduckgo.com/ip3/joinyearone.io.ico",
     "slug": "year-one-marketing-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 570,
-    "timeDay": 903,
-    "timeWeek": 564,
-    "timeMonth": 692,
+    "timeDay": 763,
+    "timeWeek": 571,
+    "timeMonth": 690,
     "timeYear": 570,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-18": 0
+    }
   },
   {
     "name": "Flow Customer API",
