@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 440,
-    "timeDay": 646,
-    "timeWeek": 424,
-    "timeMonth": 458,
-    "timeYear": 440,
+    "time": 439,
+    "timeDay": 345,
+    "timeWeek": 423,
+    "timeMonth": 451,
+    "timeYear": 439,
     "dailyMinutesDown": {}
   },
   {
@@ -24,18 +24,16 @@
     "slug": "year-one-marketing-website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 570,
-    "timeDay": 701,
-    "timeWeek": 572,
-    "timeMonth": 687,
+    "timeDay": 553,
+    "timeWeek": 562,
+    "timeMonth": 663,
     "timeYear": 570,
-    "dailyMinutesDown": {
-      "2024-11-18": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Flow Customer API",
@@ -49,9 +47,9 @@
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.95%",
     "time": 270,
-    "timeDay": 312,
+    "timeDay": 235,
     "timeWeek": 306,
-    "timeMonth": 270,
+    "timeMonth": 269,
     "timeYear": 270,
     "dailyMinutesDown": {
       "2024-10-27": 35,
@@ -70,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 478,
-    "timeDay": 558,
-    "timeWeek": 507,
-    "timeMonth": 482,
-    "timeYear": 478,
+    "time": 477,
+    "timeDay": 384,
+    "timeWeek": 499,
+    "timeMonth": 480,
+    "timeYear": 477,
     "dailyMinutesDown": {
       "2024-08-02": 95
     }
