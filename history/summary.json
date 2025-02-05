@@ -22,19 +22,19 @@
     "url": "https://joinyearone.io",
     "icon": "https://icons.duckduckgo.com/ip3/joinyearone.io.ico",
     "slug": "year-one-marketing-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 574,
-    "timeDay": 436,
-    "timeWeek": 549,
-    "timeMonth": 551,
-    "timeYear": 574,
+    "time": 573,
+    "timeDay": 378,
+    "timeWeek": 515,
+    "timeMonth": 541,
+    "timeYear": 573,
     "dailyMinutesDown": {
-      "2025-02-05": 7
+      "2025-02-05": 0
     }
   },
   {
