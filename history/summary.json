@@ -4,10 +4,10 @@
     "url": "https://app.joinyearone.io",
     "icon": "https://icons.duckduckgo.com/ip3/app.joinyearone.io.ico",
     "slug": "year-one-app-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 434,
@@ -15,7 +15,9 @@
     "timeWeek": 1042,
     "timeMonth": 550,
     "timeYear": 434,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-02": 2
+    }
   },
   {
     "name": "YearOne Marketing Website",
@@ -42,9 +44,9 @@
     "slug": "flow-customer-api",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.96%",
     "time": 299,
     "timeDay": 237,
@@ -52,7 +54,7 @@
     "timeMonth": 315,
     "timeYear": 299,
     "dailyMinutesDown": {
-      "2025-05-02": 0,
+      "2025-05-02": 17,
       "2025-04-21": 17,
       "2024-12-27": 28,
       "2024-10-27": 35,
