@@ -10,13 +10,6 @@ sites:
     url: https://app.joinyearone.io
   - name: YearOne Marketing Website
     url: https://joinyearone.io
-  - name: Flow Customer API
-    url: https://flow.pluralsight.com/v3/customer/core/docs/
-    expectedStatusCodes:
-      - 200
-      - 403
-  - name: Flow Collaboration API
-    url: https://flow-api.pluralsight.com/collaboration/docs
 
 # Configs for the status page display
 status-website:
