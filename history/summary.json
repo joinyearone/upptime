@@ -4,19 +4,19 @@
     "url": "https://app.joinyearone.io",
     "icon": "https://icons.duckduckgo.com/ip3/app.joinyearone.io.ico",
     "slug": "year-one-app-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 432,
-    "timeDay": 1397,
-    "timeWeek": 607,
-    "timeMonth": 454,
-    "timeYear": 430,
+    "time": 434,
+    "timeDay": 1449,
+    "timeWeek": 719,
+    "timeMonth": 481,
+    "timeYear": 433,
     "dailyMinutesDown": {
-      "2025-08-22": 0
+      "2025-08-22": 6
     }
   },
   {
