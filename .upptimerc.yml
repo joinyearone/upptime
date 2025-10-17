@@ -10,6 +10,9 @@ sites:
     url: https://app.joinyearone.io
   - name: YearOne Marketing Website
     url: https://joinyearone.io
+    expectedStatusCodes:
+      - 200
+      - 415
   - name: YearOne Sidekiq Queues
     url: https://app.joinyearone.io/health/sidekiq
     expectedStatusCodes:
