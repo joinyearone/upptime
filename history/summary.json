@@ -4,11 +4,11 @@
     "url": "https://app.joinyearone.io",
     "icon": "https://icons.duckduckgo.com/ip3/app.joinyearone.io.ico",
     "slug": "year-one-app-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "92.91%",
-    "uptimeWeek": "98.99%",
-    "uptimeMonth": "99.77%",
+    "uptimeDay": "92.84%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "99.76%",
     "uptimeYear": "99.98%",
     "time": 439,
     "timeDay": 313,
@@ -16,7 +16,7 @@
     "timeMonth": 442,
     "timeYear": 439,
     "dailyMinutesDown": {
-      "2025-10-20": 102
+      "2025-10-20": 103
     }
   },
   {
@@ -50,11 +50,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.joinyearone.io.ico",
     "slug": "year-one-sidekiq-queues",
     "status": "up",
-    "uptime": "99.52%",
+    "uptime": "99.53%",
     "uptimeDay": "93.83%",
     "uptimeWeek": "99.12%",
-    "uptimeMonth": "99.52%",
-    "uptimeYear": "99.52%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.53%",
     "time": 94,
     "timeDay": 141,
     "timeWeek": 108,
