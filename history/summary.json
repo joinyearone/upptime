@@ -4,19 +4,19 @@
     "url": "https://app.joinyearone.io",
     "icon": "https://icons.duckduckgo.com/ip3/app.joinyearone.io.ico",
     "slug": "year-one-app-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "92.91%",
+    "uptimeWeek": "98.99%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.98%",
     "time": 439,
-    "timeDay": 447,
-    "timeWeek": 497,
-    "timeMonth": 450,
-    "timeYear": 440,
+    "timeDay": 313,
+    "timeWeek": 461,
+    "timeMonth": 442,
+    "timeYear": 439,
     "dailyMinutesDown": {
-      "2025-10-20": 13
+      "2025-10-20": 102
     }
   },
   {
@@ -49,19 +49,19 @@
     "url": "https://app.joinyearone.io/health/sidekiq",
     "icon": "https://icons.duckduckgo.com/ip3/app.joinyearone.io.ico",
     "slug": "year-one-sidekiq-queues",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 93,
-    "timeDay": 171,
-    "timeWeek": 107,
-    "timeMonth": 93,
-    "timeYear": 93,
+    "status": "up",
+    "uptime": "99.52%",
+    "uptimeDay": "93.83%",
+    "uptimeWeek": "99.12%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.52%",
+    "time": 94,
+    "timeDay": 141,
+    "timeWeek": 108,
+    "timeMonth": 94,
+    "timeYear": 94,
     "dailyMinutesDown": {
-      "2025-10-20": 0
+      "2025-10-20": 89
     }
   }
 ]
