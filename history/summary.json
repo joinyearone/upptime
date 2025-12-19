@@ -4,18 +4,19 @@
     "url": "https://app.joinyearone.io",
     "icon": "https://icons.duckduckgo.com/ip3/app.joinyearone.io.ico",
     "slug": "year-one-app-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 444,
-    "timeDay": 387,
-    "timeWeek": 421,
-    "timeMonth": 444,
+    "time": 443,
+    "timeDay": 333,
+    "timeWeek": 403,
+    "timeMonth": 438,
     "timeYear": 445,
     "dailyMinutesDown": {
+      "2025-12-19": 2,
       "2025-11-18": 116,
       "2025-10-20": 122
     }
@@ -52,9 +53,9 @@
     "url": "https://app.joinyearone.io/health/sidekiq",
     "icon": "https://icons.duckduckgo.com/ip3/app.joinyearone.io.ico",
     "slug": "year-one-sidekiq-queues",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
@@ -64,6 +65,7 @@
     "timeMonth": 83,
     "timeYear": 90,
     "dailyMinutesDown": {
+      "2025-12-19": 0,
       "2025-11-18": 116,
       "2025-10-20": 89
     }
