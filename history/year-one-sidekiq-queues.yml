@@ -1,7 +1,7 @@
 url: https://app.joinyearone.io/health/sidekiq
-status: down
-code: 503
-responseTime: 32
-lastUpdated: 2026-01-26T11:52:22.818Z
+status: up
+code: 200
+responseTime: 77
+lastUpdated: 2026-01-26T12:59:23.828Z
 startTime: 2025-10-07T17:17:48.226Z
 generator: Upptime <https://github.com/upptime/upptime>
