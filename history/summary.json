@@ -47,17 +47,17 @@
     "url": "https://app.joinyearone.io/health/sidekiq",
     "icon": "https://icons.duckduckgo.com/ip3/app.joinyearone.io.ico",
     "slug": "year-one-sidekiq-queues",
-    "status": "up",
+    "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.25%",
     "time": 108,
-    "timeDay": 85,
-    "timeWeek": 192,
-    "timeMonth": 166,
-    "timeYear": 108,
+    "timeDay": 148,
+    "timeWeek": 195,
+    "timeMonth": 167,
+    "timeYear": 109,
     "dailyMinutesDown": {
       "2025-11-18": 116,
       "2026-01-16": 119,
@@ -73,7 +73,8 @@
       "2026-02-23": 887,
       "2026-03-20": 337,
       "2026-06-17": 238,
-      "2026-08-04": 30
+      "2026-08-04": 30,
+      "2026-10-23": 0
     }
   }
 ]
