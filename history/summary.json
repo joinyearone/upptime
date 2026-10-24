@@ -48,11 +48,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.joinyearone.io.ico",
     "slug": "year-one-sidekiq-queues",
     "status": "down",
-    "uptime": "99.25%",
-    "uptimeDay": "93.85%",
-    "uptimeWeek": "99.12%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.23%",
+    "uptime": "99.24%",
+    "uptimeDay": "90.93%",
+    "uptimeWeek": "98.70%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.22%",
     "time": 108,
     "timeDay": 129,
     "timeWeek": 168,
@@ -74,7 +74,8 @@
       "2026-03-20": 337,
       "2026-06-17": 238,
       "2026-08-04": 30,
-      "2026-10-23": 88
+      "2026-10-23": 109,
+      "2026-10-24": 21
     }
   }
 ]
