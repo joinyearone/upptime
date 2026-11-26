@@ -47,9 +47,9 @@
     "slug": "year-one-sidekiq-queues",
     "status": "up",
     "uptime": "99.29%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.24%",
     "time": 113,
     "timeDay": 156,
@@ -72,8 +72,7 @@
       "2026-06-17": 238,
       "2026-08-04": 30,
       "2026-10-23": 109,
-      "2026-10-24": 48,
-      "2026-11-25": 8
+      "2026-10-24": 48
     }
   }
 ]
